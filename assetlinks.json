@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "my.example.newappmodule",
+    "package_name": "com.example.amansinghal.myapplication",
     "sha256_cert_fingerprints":
-    ["10:95:BE:30:1D:CC:C3:C4:FC:24:14:0F:CE:F9:82:5F:40:BB:81:62:AE:81:7B:42:80:BB:CE:78:6E:83:FD:14"]
+    ["69:CF:97:9B:85:B1:33:01:98:C2:6A:0C:E7:08:C8:E1:D6:6A:92:56:67:92:6B:87:4D:C4:14:1D:45:B6:4A:77"]
   }
 }]
